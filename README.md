@@ -1,0 +1,1 @@
+in this project the cnn model that is predicted on the data-sets will predict the potato-disease from various diseases like early-blight,late-blight and healthy so that farmers can take the precautionary measures as early as posbbile.
